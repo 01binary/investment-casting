@@ -7,7 +7,7 @@ Three years ago I decided to setup a foundry for producing high-detail aluminum 
 | Investment Casting                               | Sand Casting                                                                       | Cold Casting                                                        | Metal 3D Printing                                                                           |
 |--------------------------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 | Highly detailed parts, little finishing required | Grainy surface, satisfactory for functional parts where appearance is not a factor | Partially composed of resin, deforms at 90°F, not fire proof        | Grainy surface requires finishing                                                           |
-| Temperature resistant (deforms at 500°F)         | Does not reproduce very small details                                              | Requires finishing for seamless metal appearance                    | Mechanically weaker than cast metal parts (1% elongation)                                   |
+| Temperature resistant (deforms at 550°F)         | Does not reproduce very small details                                              | Requires finishing for seamless metal appearance                    | Mechanically weaker than cast metal parts (1% elongation)                                   |
 | Mechanically strong (3.5% elongation)            |                                                                                    | [read more...](https://www.smooth-on.com/product-line/metal-powder/)| [read more...](https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/)|
 
 ## Minimum cost to get started
@@ -15,7 +15,7 @@ Three years ago I decided to setup a foundry for producing high-detail aluminum 
 | Investment Casting | Sand Casting       | Cold Casting                                       | Metal 3D Printing         |
 |--------------------|--------------------|----------------------------------------------------|---------------------------|
 | $1500              | $200               | $50                                                | $100                      |
-| * Small parts      | * Use common tools | Per part, for small parts; one batch of tiny parts | Per part, for small parts |
+| Small parts        | Use common tools   | Per part, for small parts; one batch of tiny parts | Per part, for small parts |
 
 ## The Process
 
@@ -23,7 +23,7 @@ The original model is cast four times (two positives and two negatives), with th
 
 [ilustration]
 
-The first negative is a rubber mold, with the original model released and the resulting cavity filled with wax. The wax positive is then removed from the rubber mold, attached to a rubber base with sprues, and put inside of a steel container called “flask”. The flask is then filled with specially formulated plaster called “investment”.
+The first negative is a rubber mold, with the original model released and the resulting cavity filled with wax. The wax positive is then removed from the rubber mold, attached to a rubber base with sprues, and put inside of a steel container called "flask". The flask is then filled with specially formulated plaster called "investment".
 
 When the investment sets, the wax is steamed or flash-fired, leaving a hard mold. This mold, still inside a flask, is fired in a kiln to evacuate water and strengthen the investment before metal can be poured. Flasks used in investment casting are perforated to enable vacuum-assist casting, which forces the air out of the mold and pulls the metal in to fill intricate details.
 
@@ -56,18 +56,18 @@ Remove these additional features after casting with a wax pen.
 ## Selecting rubber
 
 Choose a rubber compound depending on the size of the parts to be cast:
-* Smaller parts (about 6” or less in all dimensions) can use wax injection, which doesn’t require high-temperature rubbers. RTV rubbers used in jewelry casting can be selected, for example Ditto RTV or LiquaFast RTV silicone.
-* Large parts require degassing inside of a vacuum oven where the rubber will be subjected to temperatures in excess of 400 F. This requires a heat-resistant silicone like DragonSkin.
+* Smaller parts (about 6" or less in all dimensions) can use wax injection, which doesn’t require high-temperature rubbers. RTV rubbers used in jewelry casting can be selected, for example [Ditto RTV](https://www.riogrande.com/product/ditto-clear-rtv-mold-rubber-kit-1-1-lb/701025) or [LiquaFast RTV](https://www.riogrande.com/product/liquafast-ice-rtv-silicone-molding-compound-1kg/701043) silicone.
+* Large parts require degassing inside of a vacuum oven where the rubber will be subjected to temperatures in excess of 400°F. This requires a heat-resistant silicone like [DragonSkin](https://www.smooth-on.com/product-line/dragon-skin/).
 
 ## Degassing rubber
 
 Entrapped gas is a concern with rubber molds as any bubbles held at the surface of the model by surface tension will become filled spheres on a cast positive. To prevent this, spray the model with a mold release compound before pouring the rubber.
 
-Degass the rubber before pouring by placing the container in a vacuum chamber until full vacuum is reached and the rubber “boils over”. To remove the remaining bubbles after pouring, vibrate the mold 1 to 3 hours until the rubber sets by using an oscillator/shaker.
+Degass the rubber before pouring by placing the container in a vacuum chamber until full vacuum is reached and the rubber "boils over". To remove the remaining bubbles after pouring, vibrate the mold 1 to 3 hours until the rubber sets by using an oscillator/shaker.
 
 ## Selecting wax
 
-Select a pattern wax based on mechanical strength and expansion ratio, which are directly related. With “machinable” wax every mold can be a simple one-part mold because the casts are less likely to break when pulled out of the mold. On the other hand, investment will be cracked by expanding wax during flash-firing or autoclaving if the wax has a high enough expansion ratio.
+Select a pattern wax based on mechanical strength and expansion ratio, which are directly related. With "machinable" wax every mold can be a simple one-part mold because the casts are less likely to break when pulled out of the mold. On the other hand, investment will be cracked by expanding wax during flash-firing or autoclaving if the wax has a high enough expansion ratio.
 
 ## Casting a wax pattern
 
@@ -79,9 +79,9 @@ The tools and process required to cast wax patterns from rubber molds depend on 
 
 After you "chase" the wax pattern by removing any vents and supports with a wax pen, attach it to a rubber base using sprues. When you invest the flask later, the rubber base will give the top of the flask a funnel shape for pouring metal.
 
-You can sprue patterns faster by using bulk-extruded wax sprues and breaking off pieces of any required length. Connecting sprues to the rubber base and the model with “sticky wax” will also reduce re-work and form stronger connections. A poorly attached wax pattern will break off the base and float to the surface as the flask is being invested.
+You can sprue patterns faster by using bulk-extruded wax sprues and breaking off pieces of any required length. Connecting sprues to the rubber base and the model with "sticky wax" will also reduce re-work and form stronger connections. A poorly attached wax pattern will break off the base and float to the surface as the flask is being invested.
 
-Use fewer sprues and place them at strategic points (“gates”) following thin sections, which will give the metal alternate pathways for filling the mold before solidifying. Placing too many gates in close proximity will cause turbulence from several streams of molten metal colliding under pressure and wasting energy otherwise used to fill mold details, which will result in incomplete fills. Turbulence can also break off small internal features of the mold and they will end up being embedded in the casting as “inclusions”.
+Use fewer sprues and place them at strategic points ("gates") following thin sections, which will give the metal alternate pathways for filling the mold before solidifying. Placing too many gates in close proximity will cause turbulence from several streams of molten metal colliding under pressure and wasting energy otherwise used to fill mold details, which will result in incomplete fills. Turbulence can also break off small internal features of the mold and they will end up being embedded in the casting as "inclusions".
 
 ## Selecting investment
 
@@ -136,7 +136,7 @@ Keep the flasks in the kiln at 700°F, the recommended casting temperature for A
 Once the metal in the crucible reaches the casting temperature, transfer the flask into the
 vacuum-assist chamber with a running vacuum pump. Use a temperature resistant O-ring to seal the flask flange to the top of the chamber. This will generate vacuum around the outside of the flask, drawing gases inside the flask out through the walls. While the small gas particles can permeate the mold due to its porous microstructure, the metal cannot. Instead the metal will be pulled toward the walls of the mold, precisely capturing surface details.
 
-If the vacuum is not enough to achieve a complete fill, you can attach a “riser” to the top of the flask to increase the weight of metal pushing down into the mold. Risers also let you pour quickly because they buffer the metal and feed it at a slower rate while keeping it hot. Install a ceramic filter inside the riser to prevent pieces of forge refractory, dust, and other unwanted particles from entering the mold and becoming embedded in the casting as “inclusions”.
+If the vacuum is not enough to achieve a complete fill, you can attach a "riser" to the top of the flask to increase the weight of metal pushing down into the mold. Risers also let you pour quickly because they buffer the metal and feed it at a slower rate while keeping it hot. Install a ceramic filter inside the riser to prevent pieces of forge refractory, dust, and other unwanted particles from entering the mold and becoming inclusions.
 
 Finally, tilt the crucible with a shank to pour metal into the flask. I will cover running the forge and building the vacuum-assist chamber in future articles. The vacuum-assist chamber is simply a [do-it-yourself](https://www.youtube.com/watch?v=3BikL2yIDic) version of a [vacuum casting machine](https://products.riogrande.com/content/Instruction-Sheets/Neutec-Catalog.pdf) pioneered by Neutec.
 
