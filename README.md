@@ -192,7 +192,7 @@ Finally, tilt the crucible with a shank to pour metal into the flask. I will cov
 
 ## De-vesting
 
-Wait a total of 20 minutes after the pour before quenching in a bucket filled with water. You can remove the flask from the vacuum-assist chamber when the portion of metal visible from the outside solidifies.
+Wait a total of 20 minutes after the pour and then quench in a bucket filled with water. You can remove the flask from the vacuum-assist chamber when the portion of metal visible from the outside solidifies.
 
 The top of the flask will blow out a chunk of investment on contact with water. Use a fettling knife to increase the size of the resulting hole, scooping investment out of the flask while dipping it in water.
 
