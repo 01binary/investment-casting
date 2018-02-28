@@ -196,7 +196,7 @@ Wait a total of 20 minutes after the pour and then quench in a bucket filled wit
 
 The top of the flask will blow out a chunk of investment on contact with water. Use a fettling knife to increase the size of the resulting hole, scooping investment out of the flask while dipping it in water.
 
-You can grab the cast by the sprue with pliers and wiggle it out of the flask, making it easier to scoop out remaining investment. The investment cannot be reused and can be stored in the same bucket or a thick plastic bag until it's taken to the dump.
+You can grab the cast by the sprue with pliers and wiggle it out of the flask, making it easier to scoop out remaining investment. Used investment can be stored in the same bucket or in a thick plastic bag until it's taken to the dump.
 
 ## Finishing
 
