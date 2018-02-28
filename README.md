@@ -22,7 +22,7 @@ Three years ago I decided to setup a foundry for producing high-detail aluminum 
 			</td>
 			<td>
 				<ul>
-					<li>Grainy surface, satisfactory for functional parts where appearance is not a factor (significant finishing required to achieve smooth appearance)</li>
+					<li>Grainy surface, satisfactory for functional parts where appearance is not a factor</li>
 					<li>Does not reproduce very small or complex details (i.e. concave geometry)</li>
 				</ul>
 				<a href="http://www.foundry101.com/new_page_7.htm" target="__blank">read more...</a>
