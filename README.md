@@ -1,6 +1,6 @@
 # Investment Casting for Makers
 
-Three years ago I set out to setup a foundry for producing high-detail aluminum casts using the investment casting process. After enduring trial and error and compiling resources & tips from experts in the field, I can help you get started using this process for your projects.
+Three years ago I set out to build a foundry for producing high-detail aluminum casts using the investment casting process. After enduring trial and error and compiling resources & tips from experts in the field, I can help you get started using this process for your projects.
 
 ## Advantages
 
