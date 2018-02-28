@@ -137,11 +137,11 @@ Use fewer sprues and place them at strategic points ("gates") following thin sec
 
 ## Selecting investment
 
-Select your investment based on the metal alloy (ferrous or non-ferrous) and extra features like less dust while mixing. Examples include [UltraVest](https://www.riogrande.com/Product/ransom--randolph-ultra-vest-investment-100-lbs/702313), [FOV](https://www.riogrande.com/product/fov-premium-blend-investment-44-lbs/701699), [Advantage](https://www.riogrande.com/product/ransom-and-randolph-advantage-investment-50-lbs/702327), and [Kerr Satin](https://www.riogrande.com/product/kerr-satin-cast-20-investment-100-lbs/702099). Investment powder is sold by weight in boxes or drums, and mixed with de-ionized water based on a ratio prescribed by the manufacturer. I prefer UltraVest for aluminum casting.
+Select your investment based on the metal alloy (ferrous or non-ferrous) and extra features like less dust while mixing. Examples include [UltraVest](https://www.riogrande.com/Product/ransom--randolph-ultra-vest-investment-100-lbs/702313), [FOV](https://www.riogrande.com/product/fov-premium-blend-investment-44-lbs/701699), [Advantage](https://www.riogrande.com/product/ransom-and-randolph-advantage-investment-50-lbs/702327), and [Kerr Satin](https://www.riogrande.com/product/kerr-satin-cast-20-investment-100-lbs/702099). Investment powder is sold by weight in boxes or drums, and mixed with deionized water based on a ratio prescribed by the manufacturer. I prefer UltraVest for aluminum casting.
 
 ## Mixing investment
 
-De-ionize the water before mixing it with investment to filter out mineral particles that weaken the mold. Portable de-ionizers are easy to get because they are also used for washing cars.
+Deionize the water before mixing it with investment to filter out mineral particles that weaken the mold. Portable deionizers are easy to get because they are also used for washing cars.
 
 I prefer using rubber bowls for mixing; plastic containers become consumables, requiring continuous replacement. Calculate the volume of investment required to fill the flask an inch above the model. Then, consult the table provided by the manufacturer to determine the weight of investment and water required for mixing. When several mix ratios are available, start in the middle and then select a ratio resulting in the strongest mold (more investment) while providing enough working time (more water).
 
@@ -193,7 +193,7 @@ Finally, tilt the crucible with a shank to pour metal into the flask. I will cov
 
 ## De-vesting
 
-Wait a total of 20 minutes after the pour and then quench in a bucket filled with water. You can remove the flask from the vacuum-assist chamber when the portion of metal visible from the outside solidifies.
+Wait a total of 20 minutes after the pour before quenching the flask in a bucket filled with water. You can remove the flask from the vacuum-assist chamber when the portion of metal visible from the outside solidifies.
 
 The top of the flask will blow out a chunk of investment on contact with water. Use a fettling knife to increase the size of the resulting hole, scooping investment out of the flask while dipping it in water.
 
