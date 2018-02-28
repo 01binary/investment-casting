@@ -50,11 +50,11 @@ Three years ago I set out to build a foundry for producing high-detail aluminum 
 		<tr>
 			<td>
 				<h2>$1500</h2>
-				Foundry for producing small parts, build forge yourself
+				Foundry for producing small parts (build the forge yourself)
 			</td>
 			<td>
 				<h2>$200</h2>
-				Foundry for producing small parts, build most tools yourself<br>
+				Foundry for producing small parts (build most tools yourself)<br><br>
 			</td>
 			<td>
 				<h2>$50</h2>
@@ -76,10 +76,10 @@ The original model is cast four times (two positives and two negatives), with th
 
 1. The first negative is a rubber mold, with the original model released and the resulting cavity filled with wax.
 2. The wax positive is then removed from the rubber mold, attached to a rubber base with sprues, and put inside of a steel container called "flask". The flask is then filled with specially formulated plaster called "investment".
-3. When the investment sets, the wax is steamed or flash-fired, leaving a hard mold (negative). This mold, still inside a flask, is fired in a kiln to evacuate water and strengthen the investment.
+3. When the investment sets, the wax is steamed or flash-fired, leaving a hard negative mold. This mold, still inside a flask, is fired in a kiln to evacuate water and strengthen the investment.
 4. Finally, metal is poured to cast the final positive. Flasks used in investment casting are perforated to enable vacuum-assist casting, which forces the air out of the mold and pulls the metal in to fill intricate details.
 
-See the budget presets at the end of this article for a complete list of all tools mentioned here. Several price breaks are included for most tools to help you control the costs.
+See the budget presets at the end of this article for a complete list of all tools mentioned here.
 
 ## Producing the model
 
