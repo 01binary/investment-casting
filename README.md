@@ -4,7 +4,7 @@ Three years ago I decided to setup a foundry for producing high-detail aluminum 
 
 ## Advantages
 
-<table>
+<table style="table-layout:fixed">
 	<tbody>
 		<tr>
 			<th>Investment Casting</th>
