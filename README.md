@@ -1,6 +1,6 @@
 # Investment Casting for Makers
 
-Three years ago I decided to setup a foundry for producing high-detail aluminum casts using the investment casting process. After enduring trial and error and compiling resources & tips from experts in the field, I can help you get started using this process for your projects.
+Three years ago I set out to setup a foundry for producing high-detail aluminum casts using the investment casting process. After enduring trial and error and compiling resources & tips from experts in the field, I can help you get started using this process for your projects.
 
 ## Advantages
 
@@ -16,8 +16,8 @@ Three years ago I decided to setup a foundry for producing high-detail aluminum 
 			<td>
 				<ul>
 					<li>Highly detailed parts, little finishing required</li>
-					<li>Temperature resistant (deforms at 500°F)</li>
-					<li>Mechanically strong (3.5% elongation)</li>
+					<li>Temperature resistant (356 alloy deforms at 500°F)</li>
+					<li>Mechanically strong (3.5% elongation for 356 alloy)</li>
 				</ul>
 			</td>
 			<td>
@@ -25,21 +25,21 @@ Three years ago I decided to setup a foundry for producing high-detail aluminum 
 					<li>Grainy surface, satisfactory for functional parts where appearance is not a factor</li>
 					<li>Does not reproduce very small or complex details (i.e. concave geometry)</li>
 				</ul>
-				<a href="http://www.foundry101.com/new_page_7.htm" target="__blank">read more...</a>
+				<a target="__blank" href="http://www.foundry101.com/new_page_7.htm">read more...</a>
 			</td>
 			<td>
 				<ul>
 					<li>Partially composed of resin, deforms at 90°F, not fire proof</li>
 					<li>Requires finishing for seamless metal appearance</li>
 				</ul>
-				<a href="https://www.smooth-on.com/product-line/metal-powder/" target="__blank">read more...</a>
+				<a target="__blank" href="https://www.smooth-on.com/product-line/metal-powder/">read more...</a>
 			</td>
 			<td>
 				<ul>
 					<li>Grainy surface requires finishing</li>
-					<li>Mechanically weaker than cast metal parts (1% elongation)</li>
+					<li>Mechanically weaker than cast metal parts (1% elongation for <a target="__blank" href="https://www.protolabs.com/media/1011285/aluminum-alsi10mg-material-spec-data-sheet.pdf">AlSi10Mg</a>)</li>
 				</ul>
-				<a href="https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/" target="__blank">read more...</a>
+				<a target="__blank" href="https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/" target="__blank">read more...</a>
 			</td>
 		</tr>
 		<tr>
@@ -50,19 +50,19 @@ Three years ago I decided to setup a foundry for producing high-detail aluminum 
 		<tr>
 			<td>
 				<h2>$1500</h2>
-				Small parts
+				Foundry for producing small parts, build forge yourself
 			</td>
 			<td>
 				<h2>$200</h2>
-				Use common tools
+				Foundry for producing small parts, build most tools yourself<br>
 			</td>
 			<td>
 				<h2>$50</h2>
-				Per part, for small parts
+				Per part, for small parts<br><br><br>
 			</td>
 			<td>
 				<h2>$180</h2>
-				Per part, for small parts
+				Per part, for small parts<br><br><br>
 			</td>
 		</tr>
 	</tbody>
@@ -72,11 +72,12 @@ Three years ago I decided to setup a foundry for producing high-detail aluminum 
 
 The original model is cast four times (two positives and two negatives), with the final positive cast out of the chosen alloy.
 
-[ilustration]
+[illustration]
 
-The first negative is a rubber mold, with the original model released and the resulting cavity filled with wax. The wax positive is then removed from the rubber mold, attached to a rubber base with sprues, and put inside of a steel container called "flask". The flask is then filled with specially formulated plaster called "investment".
-
-When the investment sets, the wax is steamed or flash-fired, leaving a hard mold. This mold, still inside a flask, is fired in a kiln to evacuate water and strengthen the investment before metal can be poured. Flasks used in investment casting are perforated to enable vacuum-assist casting, which forces the air out of the mold and pulls the metal in to fill intricate details.
+1. The first negative is a rubber mold, with the original model released and the resulting cavity filled with wax.
+2. The wax positive is then removed from the rubber mold, attached to a rubber base with sprues, and put inside of a steel container called "flask". The flask is then filled with specially formulated plaster called "investment".
+3. When the investment sets, the wax is steamed or flash-fired, leaving a hard mold (negative). This mold, still inside a flask, is fired in a kiln to evacuate water and strengthen the investment.
+4. Finally, metal is poured to cast the final positive. Flasks used in investment casting are perforated to enable vacuum-assist casting, which forces the air out of the mold and pulls the metal in to fill intricate details.
 
 See the budget presets at the end of this article for a complete list of all tools mentioned here. Several price breaks are included for most tools to help you control the costs.
 
@@ -95,7 +96,7 @@ Aluminum casts can be up to 5% smaller than the original, depending on the alloy
 
 To make a rubber mold, build a wooden or plastic box slightly larger than the model, fix the model in the box, and pour rubber over it. If you keep the box walls as separate components, you can quickly build boxes of any pre-determined size.
 
-If you simply cut the master model out of the mold with an X-Acto knife you will produce a one-part mold, but releasing a fragile wax pattern cast from this mold could be next to impossible without breaking it. For this reason, complex models require two-part molds.
+If you simply cut the master model out of the mold with an X-Acto knife you will produce a one-part mold, but releasing a fragile wax pattern cast from this mold could be next to impossible without breaking it. For this reason, complex models require [two-part molds](https://www.youtube.com/watch?v=DEVi0mEaJJQ).
 
 You can also create additional geometry at this stage to aid degassing or to add strength to the wax pattern cast from the mold:
 
@@ -222,7 +223,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Burnout Kiln</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/rio-extra-large-programmable-oven/703017">
+					<a target="__blank" href="https://www.riogrande.com/product/rio-extra-large-programmable-oven/703017">
 						$2750
 					</a>
 				</h3>
@@ -233,7 +234,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/rio-large-programmable-oven/703022">
+					<a target="__blank" href="https://www.riogrande.com/product/rio-large-programmable-oven/703022">
 						$2400
 					</a>
 				</h3>
@@ -244,7 +245,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/Programmable-Fiber-Furnace/253236407481">
+					<a target="__blank" href="https://www.ebay.com/itm/Programmable-Fiber-Furnace/253236407481">
 						$1250
 					</a>
 				</h3>
@@ -255,7 +256,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/RapidFire-TableTop-Programmable-Ceramic-Precious-Metal-Clay-Jewelry-Kiln-Furnace/381553072012">
+					<a target="__blank" href="https://www.ebay.com/itm/RapidFire-TableTop-Programmable-Ceramic-Precious-Metal-Clay-Jewelry-Kiln-Furnace/381553072012">
 						$500
 					</a>
 				</h3>
@@ -266,7 +267,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/p/Compact-Electrical-Muffle-Kiln-with-Digital-Temperature-Controller-Two-Movable-Tile-shelves-R14-Q/1956318322?iid=312064015894">
+					<a target="__blank" href="https://www.ebay.com/p/Compact-Electrical-Muffle-Kiln-with-Digital-Temperature-Controller-Two-Movable-Tile-shelves-R14-Q/1956318322?iid=312064015894">
 						$300
 					</a>
 				</h3>
@@ -284,7 +285,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B00BEIH65O?ref=emc_b_5_t">
+					<a target="__blank" href="https://www.amazon.com/dp/B00BEIH65O?ref=emc_b_5_t">
 						$2190
 					</a>
 				</h3>
@@ -293,7 +294,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B009WSJNNQ?ref=emc_b_5_t">
+					<a target="__blank" href="https://www.amazon.com/dp/B009WSJNNQ?ref=emc_b_5_t">
 						$1390
 					</a>
 				</h3>
@@ -302,7 +303,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Value-Vacs-0-9CF-Vacuum-Degassing/dp/B072JNQ271">
+					<a target="__blank" href="https://www.amazon.com/Value-Vacs-0-9CF-Vacuum-Degassing/dp/B072JNQ271">
 						$1100
 					</a>
 				</h3>
@@ -311,7 +312,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/OrangeA-Sterilizing-temperature-Controller-Extraction/dp/B01NCP1RTD">
+					<a target="__blank" href="https://www.amazon.com/OrangeA-Sterilizing-temperature-Controller-Extraction/dp/B01NCP1RTD">
 						$670
 					</a>
 				</h3>
@@ -320,7 +321,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B075ZMPN4H/">
+					<a target="__blank" href="https://www.amazon.com/dp/B075ZMPN4H/">
 						$655
 					</a>
 				</h3>
@@ -331,7 +332,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 		<tr>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/rio-digital-vacuum-wax-injectors/700914gp">
+					<a target="__blank" href="https://www.riogrande.com/product/rio-digital-vacuum-wax-injectors/700914gp">
 						$2100
 					</a>
 				</h3>
@@ -340,7 +341,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/dura-bull-four-quart-air-pressure-wax-injector/700057">
+					<a target="__blank" href="https://www.riogrande.com/product/dura-bull-four-quart-air-pressure-wax-injector/700057">
 						$625
 					</a>
 				</h3>
@@ -349,7 +350,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/rio-four-quart-air-pressure-wax-injector/700125">
+					<a target="__blank" href="https://www.riogrande.com/product/rio-four-quart-air-pressure-wax-injector/700125">
 						$575
 					</a>
 				</h3>
@@ -358,7 +359,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/Digital-Vacuum-Wax-Injector-Jewelry-Casting-Machine-for-Jeweler-Tools-220V/332460625503">
+					<a target="__blank" href="https://www.ebay.com/itm/Digital-Vacuum-Wax-Injector-Jewelry-Casting-Machine-for-Jeweler-Tools-220V/332460625503">
 						$538
 					</a>
 				</h3>
@@ -367,7 +368,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/rio-mini-hand-wax-injector-with-thermostat/700047">
+					<a target="__blank" href="https://www.riogrande.com/product/rio-mini-hand-wax-injector-with-thermostat/700047">
 						$225
 					</a>
 				</h3>
@@ -379,7 +380,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Vacuum Pump</td>
 			<td>
 				<h3>
-					<a href="https://www.bestvaluevacs.com/pro-series-11-3cfm-corrosion-resistant-two-stage-vacuum-pump.html">
+					<a target="__blank" href="https://www.bestvaluevacs.com/pro-series-11-3cfm-corrosion-resistant-two-stage-vacuum-pump.html">
 						$2300
 					</a>
 				</h3>
@@ -390,7 +391,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.bestvaluevacs.com/best-value-vacs-ve2100-12cfm-two-stage-vacuum-pump-4007.html">
+					<a target="__blank" href="https://www.bestvaluevacs.com/best-value-vacs-ve2100-12cfm-two-stage-vacuum-pump-4007.html">
 						$410
 					</a>
 				</h3>
@@ -400,7 +401,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.bestvaluevacs.com/best-value-vacs-ve280-9cfm-two-stage-vacuum-pump-4006.html">
+					<a target="__blank" href="https://www.bestvaluevacs.com/best-value-vacs-ve280-9cfm-two-stage-vacuum-pump-4006.html">
 						$365
 					</a>
 				</h3>
@@ -410,7 +411,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B00SXGOXFG/">
+					<a target="__blank" href="https://www.amazon.com/dp/B00SXGOXFG/">
 						$306
 					</a>
 				</h3>
@@ -420,7 +421,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Value-Brand-Single-Stage-Vacuum/dp/B013ENREW6/">
+					<a target="__blank" href="https://www.amazon.com/Value-Brand-Single-Stage-Vacuum/dp/B013ENREW6/">
 						$180
 					</a>
 				</h3>
@@ -433,7 +434,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Vacuum Chamber</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Gallon-300mm450mm-Stainless-Degassing-Chamber/dp/B072LSX379/">
+					<a target="__blank" href="https://www.amazon.com/Gallon-300mm450mm-Stainless-Degassing-Chamber/dp/B072LSX379/">
 						$174
 					</a>
 				</h3>
@@ -442,7 +443,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B01NAH0EWN/ref=sspa_dk_detail_2?psc=1">
+					<a target="__blank" href="https://www.amazon.com/dp/B01NAH0EWN/ref=sspa_dk_detail_2?psc=1">
 						$105
 					</a>
 				</h3>
@@ -451,7 +452,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B01N9FGDTY/">
+					<a target="__blank" href="https://www.amazon.com/dp/B01N9FGDTY/">
 						$95
 					</a>
 				</h3>
@@ -460,7 +461,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B01NAGN0AT/">
+					<a target="__blank" href="https://www.amazon.com/dp/B01NAGN0AT/">
 						$78
 					</a>
 				</h3>
@@ -469,7 +470,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B01AO0P5NW/">
+					<a target="__blank" href="https://www.amazon.com/dp/B01AO0P5NW/">
 						$56
 					</a>
 				</h3>
@@ -481,7 +482,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Vacuum Assist Chamber</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/neutec-j-2r-casting-machine-ce-certified/710040ce">
+					<a target="__blank" href="https://www.riogrande.com/product/neutec-j-2r-casting-machine-ce-certified/710040ce">
 						$7195
 					</a>
 				</h3>
@@ -490,7 +491,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/v-i-c-12-tabletop-solid-and-perforated-flask-casting-machine-with-the-rio-assistant-110-volt/70511814">
+					<a target="__blank" href="https://www.riogrande.com/product/v-i-c-12-tabletop-solid-and-perforated-flask-casting-machine-with-the-rio-assistant-110-volt/70511814">
 						$1925
 					</a>
 				</h3>
@@ -499,7 +500,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Superland-Combination-Mini-Vacuum-Investing-Investment/dp/B072KDMYX1">
+					<a target="__blank" href="https://www.amazon.com/Superland-Combination-Mini-Vacuum-Investing-Investment/dp/B072KDMYX1">
 						$656
 					</a>
 				</h3>
@@ -509,7 +510,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td colspan="2">
 				<h3>
 					$50
-					<a href="https://www.youtube.com/watch?v=3BikL2yIDic">
+					<a target="__blank" href="https://www.youtube.com/watch?v=3BikL2yIDic">
 						do it yourself
 					</a>
 				</h3>
@@ -522,7 +523,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td colspan="5">
 				<h3>
 					$20 - $100
-					<a href="https://www.youtube.com/watch?v=HV-b1_D8RJs">
+					<a target="__blank" href="https://www.youtube.com/watch?v=HV-b1_D8RJs">
 						do it yourself
 					</a>
 					option for do it yourself vacuum assist chamber
@@ -535,7 +536,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Forge</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B0197A24RU">
+					<a target="__blank" href="https://www.amazon.com/dp/B0197A24RU">
 						$745.50
 					</a>
 				</h3>
@@ -545,7 +546,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/Metal-Melting-Furnace-FB2M-Propane-Foundry-Kwik-Kiln-Forge-Gold-Silver-Copper/251901919391">
+					<a target="__blank" href="https://www.ebay.com/itm/Metal-Melting-Furnace-FB2M-Propane-Foundry-Kwik-Kiln-Forge-Gold-Silver-Copper/251901919391">
 						$600
 					</a>
 				</h3>
@@ -555,7 +556,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/Metal-Melting-Furnace-FB1S-Propane-Foundry-Kwik-Jewelry-Gold-Silver-Copper/261498065505">
+					<a target="__blank" href="https://www.ebay.com/itm/Metal-Melting-Furnace-FB1S-Propane-Foundry-Kwik-Jewelry-Gold-Silver-Copper/261498065505">
 						$380
 					</a>
 				</h3>
@@ -565,7 +566,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/VEVOR-Capacity-Refining-Precious-Aluminum/dp/B071FSSX68">
+					<a target="__blank" href="https://www.amazon.com/VEVOR-Capacity-Refining-Precious-Aluminum/dp/B071FSSX68">
 						$360
 					</a>
 				</h3>
@@ -575,7 +576,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/p/Metal-Melting-Furnace-FB1Sb-Propane-Foundry-Kwik-Jewelry-Gold-Silver-Copper/1153096501">
+					<a target="__blank" href="https://www.ebay.com/p/Metal-Melting-Furnace-FB1Sb-Propane-Foundry-Kwik-Jewelry-Gold-Silver-Copper/1153096501">
 						$250
 					</a>
 				</h3>
@@ -588,7 +589,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Crucible</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/Salamander-Clay-Graphite-Morgan-Crucibles-Super-A-16-Furnace-Melt-Non-Ferrous/200636865881">
+					<a target="__blank" href="https://www.ebay.com/itm/Salamander-Clay-Graphite-Morgan-Crucibles-Super-A-16-Furnace-Melt-Non-Ferrous/200636865881">
 						$92.87
 					</a>
 				</h3>
@@ -597,7 +598,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/Pure-Graphite-Crucible-Metal-Melting-Gold-Silver-Scrap-Casting-Ingot-Mould-5KG/222691515940">
+					<a target="__blank" href="https://www.ebay.com/itm/Pure-Graphite-Crucible-Metal-Melting-Gold-Silver-Scrap-Casting-Ingot-Mould-5KG/222691515940">
 						$48.47
 					</a>
 				</h3>
@@ -606,7 +607,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/8-10-KG-Clay-Graphite-Foundry-Crucible-Melting-Furnace-Refining-Gold-Silver-CU/321201746624">
+					<a target="__blank" href="https://www.ebay.com/itm/8-10-KG-Clay-Graphite-Foundry-Crucible-Melting-Furnace-Refining-Gold-Silver-CU/321201746624">
 						$39.95
 					</a>
 				</h3>
@@ -615,7 +616,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B07415C5C4">
+					<a target="__blank" href="https://www.amazon.com/dp/B07415C5C4">
 						$33.99
 					</a>
 				</h3>
@@ -624,7 +625,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Graphite-Crucible-Melting-Silver-Casting/dp/B01934GVQK">
+					<a target="__blank" href="https://www.amazon.com/Graphite-Crucible-Melting-Silver-Casting/dp/B01934GVQK">
 						$16.90
 					</a>
 				</h3>
@@ -636,7 +637,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Propane Tank</td>
 			<td colspan="5">
 				<h3>
-					<a href="https://www.lowes.com/pd/Blue-Rhino-15-lb-Pre-Filled-Propane-Tank/4781957">
+					<a target="__blank" href="https://www.lowes.com/pd/Blue-Rhino-15-lb-Pre-Filled-Propane-Tank/4781957">
 						$48.22
 					</a>
 				</h3>
@@ -647,7 +648,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Fan</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B003T9CKR0">
+					<a target="__blank" href="https://www.amazon.com/dp/B003T9CKR0">
 						$309.01
 					</a>
 				</h3>
@@ -656,7 +657,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B00903HDK8">
+					<a target="__blank" href="https://www.amazon.com/dp/B00903HDK8">
 						$152.61
 					</a>
 				</h3>
@@ -665,7 +666,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B01M13M24R">
+					<a target="__blank" href="https://www.amazon.com/dp/B01M13M24R">
 						$147.75
 					</a>
 				</h3>
@@ -674,7 +675,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Vortex-Powerfans-VTX400-172-Powerfan/dp/B0055F6Z7C/">
+					<a target="__blank" href="https://www.amazon.com/Vortex-Powerfans-VTX400-172-Powerfan/dp/B0055F6Z7C/">
 						$115.94
 					</a>
 				</h3>
@@ -683,7 +684,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/gp/product/B0043235K8">
+					<a target="__blank" href="https://www.amazon.com/gp/product/B0043235K8">
 						$66.85
 					</a>
 				</h3>
@@ -695,7 +696,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Oscillator</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/ELMI-DOS-20M-Digital-Orbital-Platform/dp/B008XRLZCE">
+					<a target="__blank" href="https://www.amazon.com/ELMI-DOS-20M-Digital-Orbital-Platform/dp/B008XRLZCE">
 						$909.22
 					</a>
 				</h3>
@@ -703,7 +704,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B008XRM0XM">
+					<a target="__blank" href="https://www.amazon.com/dp/B008XRM0XM">
 						$678.83
 					</a>
 				</h3>
@@ -711,7 +712,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Adjustable-Speed-Orbital-Shaker-Rotator/dp/B002TEQI42">
+					<a target="__blank" href="https://www.amazon.com/Adjustable-Speed-Orbital-Shaker-Rotator/dp/B002TEQI42">
 						$120
 					</a>
 				</h3>
@@ -719,7 +720,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Dental-Vibrator-Round-Dentist-Equipment/dp/B00S0X7QHO">
+					<a target="__blank" href="https://www.amazon.com/Dental-Vibrator-Round-Dentist-Equipment/dp/B00S0X7QHO">
 						$59.00
 					</a>
 				</h3>
@@ -727,7 +728,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Frankford-Arsenal-Quick-n-EZ-Case-Tumbler/dp/B001MYGLJC">
+					<a target="__blank" href="https://www.amazon.com/Frankford-Arsenal-Quick-n-EZ-Case-Tumbler/dp/B001MYGLJC">
 						$39.99
 					</a>
 				</h3>
@@ -738,7 +739,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Scale</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/USA-Digital-Shipping-Stainless-Platform/dp/B01LXRW17R">
+					<a target="__blank" href="https://www.amazon.com/USA-Digital-Shipping-Stainless-Platform/dp/B01LXRW17R">
 						$129.99
 					</a>
 				</h3>
@@ -746,7 +747,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/ZIEIS-Capacity-Stainless-Platform-Accuracy/dp/B0042L04PO/">
+					<a target="__blank" href="https://www.amazon.com/ZIEIS-Capacity-Stainless-Platform-Accuracy/dp/B0042L04PO/">
 						$94.97
 					</a>
 				</h3>
@@ -754,7 +755,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/digital-investment-scale-11-lb-5kg/702108">
+					<a target="__blank" href="https://www.riogrande.com/product/digital-investment-scale-11-lb-5kg/702108">
 						$41.25
 					</a>
 				</h3>
@@ -762,7 +763,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B0171DN6R2">
+					<a target="__blank" href="https://www.amazon.com/dp/B0171DN6R2">
 						$12
 					</a>
 				</h3>
@@ -770,7 +771,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/1byone-Digital-Kitchen-Cooking-Baking/dp/B01D9XKDNS/">
+					<a target="__blank" href="https://www.amazon.com/1byone-Digital-Kitchen-Cooking-Baking/dp/B01D9XKDNS/">
 						$8.99
 					</a>
 				</h3>
@@ -784,7 +785,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/All-American-2-Quart-Pressure-Cooker/dp/B0002808ZM">
+					<a target="__blank" href="https://www.amazon.com/All-American-2-Quart-Pressure-Cooker/dp/B0002808ZM">
 						$499.99
 					</a>
 				</h3>
@@ -793,7 +794,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B00MCLRFQW">
+					<a target="__blank" href="https://www.amazon.com/dp/B00MCLRFQW">
 						$349.99
 					</a>
 				</h3>
@@ -802,7 +803,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B0002808YS">
+					<a target="__blank" href="https://www.amazon.com/dp/B0002808YS">
 						$299.99
 					</a>
 				</h3>
@@ -811,7 +812,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Presto-01781-23-Quart-Pressure-Canner">
+					<a target="__blank" href="https://www.amazon.com/Presto-01781-23-Quart-Pressure-Canner">
 						$70.39
 					</a>
 				</h3>
@@ -820,7 +821,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Mirro-Polished-Aluminum-Pressure-Cookware/dp/B000RNH7PQ">
+					<a target="__blank" href="https://www.amazon.com/Mirro-Polished-Aluminum-Pressure-Cookware/dp/B000RNH7PQ">
 						$61.99
 					</a>
 				</h3>
@@ -829,10 +830,10 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 		</tr>
 		<tr>
-			<td>De-ionizer</td>
+			<td>Deionizer</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Go-Spotless-Portable-Dual-Deionizer/dp/B00KVPO21C/">
+					<a target="__blank" href="https://www.amazon.com/Go-Spotless-Portable-Dual-Deionizer/dp/B00KVPO21C/">
 						$420
 					</a>
 				</h3>
@@ -840,7 +841,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/CR-Spotless-Deionized-Water-System/dp/B0056HDCUM">
+					<a target="__blank" href="https://www.amazon.com/CR-Spotless-Deionized-Water-System/dp/B0056HDCUM">
 						$249.88
 					</a>
 				</h3>
@@ -848,7 +849,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B0144MFPOA">
+					<a target="__blank" href="https://www.amazon.com/dp/B0144MFPOA">
 						$99.95
 					</a>
 				</h3>
@@ -856,7 +857,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B00523AMBC">
+					<a target="__blank" href="https://www.amazon.com/dp/B00523AMBC">
 						$44.94
 					</a>
 				</h3>
@@ -864,7 +865,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B0024E6V30">
+					<a target="__blank" href="https://www.amazon.com/dp/B0024E6V30">
 						$17.64
 					</a>
 				</h3>
@@ -875,7 +876,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Pyrometer</td>
 			<td colspan="4" rowspan="3">
 				<h3>
-					<a href="http://mifco.com/shop/pyrometers/mt-400-portable-hand-lance-pyrometer/">
+					<a target="__blank" href="http://mifco.com/shop/pyrometers/mt-400-portable-hand-lance-pyrometer/">
 						$340 (Pyrometer with Probe and Lance)
 					</a>
 				</h3>
@@ -883,7 +884,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/Various-K-Type-Thermocouple-Probe-Sensor-Temperature-Controller-50-to-1200/282579316824">
+					<a target="__blank" href="https://www.ebay.com/itm/Various-K-Type-Thermocouple-Probe-Sensor-Temperature-Controller-50-to-1200/282579316824">
 						$4.29
 					</a>
 				</h3>
@@ -894,7 +895,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Probe</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/Various-K-Type-Thermocouple-Probe-Sensor-Temperature-Controller-50-to-1200/282579316824">
+					<a target="__blank" href="https://www.ebay.com/itm/Various-K-Type-Thermocouple-Probe-Sensor-Temperature-Controller-50-to-1200/282579316824">
 						$4.35
 					</a>
 				</h3>
@@ -905,7 +906,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Lance</td>
 			<td>
 				<h3>
-					<a href="https://www.lowes.com/pd/Common-1-2-in-Actual-50-In-Metallic-Emt-10-ft-Conduit/3129551">
+					<a target="__blank" href="https://www.lowes.com/pd/Common-1-2-in-Actual-50-In-Metallic-Emt-10-ft-Conduit/3129551">
 						$3.00
 					</a>
 				</h3>
@@ -916,7 +917,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Rubber Bowls</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Rubber-Mixing-Bowl-1-Gal/702132">
+					<a target="__blank" href="https://www.riogrande.com/product/Rubber-Mixing-Bowl-1-Gal/702132">
 						$17.75
 					</a>
 				</h3>
@@ -925,7 +926,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Rubber-Mixing-Bowl-1-12-Qt/702131">
+					<a target="__blank" href="https://www.riogrande.com/product/Rubber-Mixing-Bowl-1-12-Qt/702131">
 						$9.25
 					</a>
 				</h3>
@@ -934,7 +935,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/Dental-Lab-Hygienist-Flexible-Mixing-Bowl-Rubber-Size-Large-Green-for-Impression/180428891851">
+					<a target="__blank" href="https://www.ebay.com/itm/Dental-Lab-Hygienist-Flexible-Mixing-Bowl-Rubber-Size-Large-Green-for-Impression/180428891851">
 						$5.15
 					</a>
 				</h3>
@@ -943,7 +944,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/Dental-Lab-Hygienist-Flexible-Mixing-Bowl-Rubber-Size-Large-Green-for-Impression/180428891851">
+					<a target="__blank" href="https://www.ebay.com/itm/Dental-Lab-Hygienist-Flexible-Mixing-Bowl-Rubber-Size-Large-Green-for-Impression/180428891851">
 						$6.00
 					</a>
 				</h3>
@@ -952,7 +953,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/New-10cm-Dental-Lab-Hygienist-Flexible-Mixing-Bowl-Rubber-Dental-Emporium/152860196168">
+					<a target="__blank" href="https://www.ebay.com/itm/New-10cm-Dental-Lab-Hygienist-Flexible-Mixing-Bowl-Rubber-Dental-Emporium/152860196168">
 						$1.05
 					</a>
 				</h3>
@@ -964,7 +965,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Waxer Pen</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/kerr-ultra-waxer-2/700574">
+					<a target="__blank" href="https://www.riogrande.com/product/kerr-ultra-waxer-2/700574">
 						$325
 					</a>
 				</h3>
@@ -972,7 +973,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/foredom-wax-carving-pen/700331">
+					<a target="__blank" href="https://www.riogrande.com/product/foredom-wax-carving-pen/700331">
 						$195.50
 					</a>
 				</h3>
@@ -980,7 +981,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/giles-precision-wax-pen-tool/700391">
+					<a target="__blank" href="https://www.riogrande.com/product/giles-precision-wax-pen-tool/700391">
 						$165
 					</a>
 				</h3>
@@ -988,7 +989,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/rio-benchmount-ii-wax-pen-system/700457">
+					<a target="__blank" href="https://www.riogrande.com/product/rio-benchmount-ii-wax-pen-system/700457">
 						$149
 					</a>
 				</h3>
@@ -996,7 +997,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/Dental-Electric-Wax-Waxer-Carver-Double-Carving-Pen-pencil-6-Tip-Pot-2018-NEW/121308997601">
+					<a target="__blank" href="https://www.ebay.com/itm/Dental-Electric-Wax-Waxer-Carver-Double-Carving-Pen-pencil-6-Tip-Pot-2018-NEW/121308997601">
 						$31.11
 					</a>
 				</h3>
@@ -1007,7 +1008,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Wax Warmer (sticky wax)</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/Dental-Lab-BesQual-S800-Digital-Multi-Wax-Pot-3-x-Digital-Dipping-Pots/272867180222">
+					<a target="__blank" href="https://www.ebay.com/itm/Dental-Lab-BesQual-S800-Digital-Multi-Wax-Pot-3-x-Digital-Dipping-Pots/272867180222">
 						$167.99
 					</a>
 				</h3>
@@ -1015,7 +1016,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/BesQual-E100-Digital-Wax-Pot-4-Compartment-Dental-Lab/292274197663">
+					<a target="__blank" href="https://www.ebay.com/itm/BesQual-E100-Digital-Wax-Pot-4-Compartment-Dental-Lab/292274197663">
 						$117.50
 					</a>
 				</h3>
@@ -1023,7 +1024,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/digital-three-well-wax-melting-pot-with-lid/700101">
+					<a target="__blank" href="https://www.riogrande.com/product/digital-three-well-wax-melting-pot-with-lid/700101">
 						$99.95
 					</a>
 				</h3>
@@ -1031,7 +1032,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/wax-melting-or-treeing-pot/700607">
+					<a target="__blank" href="https://www.riogrande.com/product/wax-melting-or-treeing-pot/700607">
 						$35.50
 					</a>
 				</h3>
@@ -1039,7 +1040,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/Dental-Lab-Electric-Wax-Waxer-3-Well-Analog-Melting-Dipping-Heater-Pot-Machine/122642117908">
+					<a target="__blank" href="https://www.ebay.com/itm/Dental-Lab-Electric-Wax-Waxer-3-Well-Analog-Melting-Dipping-Heater-Pot-Machine/122642117908">
 						$28
 					</a>
 				</h3>
@@ -1050,7 +1051,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Wax Pot (pattern wax)</td>
 			<td colspan="2">
 				<h3>
-					<a href="https://www.ebay.com/itm/PRESTO-POT-X-LARGE-WAX-MELTER-CANDLE-MAKING-WITH-SPOUT-WAX-MELTING/332118767581">
+					<a target="__blank" href="https://www.ebay.com/itm/PRESTO-POT-X-LARGE-WAX-MELTER-CANDLE-MAKING-WITH-SPOUT-WAX-MELTING/332118767581">
 						$199.95
 					</a>
 				</h3>
@@ -1058,7 +1059,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/PRESTO-POT-X-LARGE-WAX-MELTER-CANDLE-MAKING-WITH-SPOUT-WAX-MELTING/231339863625">
+					<a target="__blank" href="https://www.ebay.com/itm/PRESTO-POT-X-LARGE-WAX-MELTER-CANDLE-MAKING-WITH-SPOUT-WAX-MELTING/231339863625">
 						$99.95
 					</a>
 				</h3>
@@ -1066,7 +1067,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/PRESTO-POT-WAX-MELTER-WAX-MELTING-WITH-SPOUT-LIFETIME-WARRANTY/230422075172">
+					<a target="__blank" href="https://www.ebay.com/itm/PRESTO-POT-WAX-MELTER-WAX-MELTING-WITH-SPOUT-LIFETIME-WARRANTY/230422075172">
 						$78.83
 					</a>
 				</h3>
@@ -1074,7 +1075,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/PRESTO-POT-8lb-WAX-MELTER-LIFETIME-WARRANTY-FREE-SHIPPING/182567297772">
+					<a target="__blank" href="https://www.ebay.com/itm/PRESTO-POT-8lb-WAX-MELTER-LIFETIME-WARRANTY-FREE-SHIPPING/182567297772">
 						$62.95
 					</a>
 				</h3>
@@ -1085,7 +1086,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Ingot Mold</td>
 			<td>
 				<h3>
-					<a href="http://www.budgetcastingsupply.com/product-p/6172-008.htm">
+					<a target="__blank" href="http://www.budgetcastingsupply.com/product-p/6172-008.htm">
 						$39.00
 					</a>
 				</h3>
@@ -1093,7 +1094,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/50oz-1-5KG-Cast-Iron-Ingot-Mould-Silver-Gold-Bar-Foundry-Melting-Casting-Metal/302624064470">
+					<a target="__blank" href="https://www.ebay.com/itm/50oz-1-5KG-Cast-Iron-Ingot-Mould-Silver-Gold-Bar-Foundry-Melting-Casting-Metal/302624064470">
 						$23.42
 					</a>
 				</h3>
@@ -1101,7 +1102,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/Lee-Precision-Ingot-Mold/292315094262">
+					<a target="__blank" href="https://www.ebay.com/itm/Lee-Precision-Ingot-Mold/292315094262">
 						$13.81
 					</a>
 				</h3>
@@ -1109,7 +1110,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/SODIAL-Melting-Casting-Refining-Graphite/dp/B074FST7LW">
+					<a target="__blank" href="https://www.amazon.com/SODIAL-Melting-Casting-Refining-Graphite/dp/B074FST7LW">
 						$9.05
 					</a>
 				</h3>
@@ -1126,7 +1127,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Crucible Shank</td>
 			<td>
 				<h3>
-					<a href="http://mifco.com/shop/shanks-bails/s890se-adjustable-latching-single-end-shank/">
+					<a target="__blank" href="http://mifco.com/shop/shanks-bails/s890se-adjustable-latching-single-end-shank/">
 						$603
 					</a>
 				</h3>
@@ -1134,7 +1135,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="http://www.budgetcastingsupply.com/Crucible-Pouring-Shank-p/6080-s1.htm">
+					<a target="__blank" href="http://www.budgetcastingsupply.com/Crucible-Pouring-Shank-p/6080-s1.htm">
 						$295
 					</a>
 				</h3>
@@ -1142,7 +1143,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="http://mifco.com/shop/shanks-bails/s16h-latching-hand-shank/">
+					<a target="__blank" href="http://mifco.com/shop/shanks-bails/s16h-latching-hand-shank/">
 						$224
 					</a>
 				</h3>
@@ -1150,7 +1151,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="http://mifco.com/shop/shanks-bails/020705-ladle-shank-9-dia-id-ring/">
+					<a target="__blank" href="http://mifco.com/shop/shanks-bails/020705-ladle-shank-9-dia-id-ring/">
 						$101
 					</a>
 				</h3>
@@ -1167,7 +1168,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Crucible Tongs</td>
 			<td colspan="2">
 				<h3>
-					<a href="http://www.budgetcastingsupply.com/Crucible-Lifting-Tongs-p/6061-t1.htm">
+					<a target="__blank" href="http://www.budgetcastingsupply.com/Crucible-Lifting-Tongs-p/6061-t1.htm">
 						$225
 					</a>
 				</h3>
@@ -1175,7 +1176,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td colspan="2">
 				<h3>
-					<a href="https://www.amazon.com/Carbon-Foundry-Crucible-Casting-Precious/dp/B019QR8DG0/">
+					<a target="__blank" href="https://www.amazon.com/Carbon-Foundry-Crucible-Casting-Precious/dp/B019QR8DG0/">
 						$34
 					</a>
 				</h3>
@@ -1186,7 +1187,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Flask Tongs</td>
 			<td colspan="2">
 				<h3>
-					<a href="https://www.amazon.com/Crucible-Graphite-Refinery-Crucibles-Refining/dp/B00EUG5NJI">
+					<a target="__blank" href="https://www.amazon.com/Crucible-Graphite-Refinery-Crucibles-Refining/dp/B00EUG5NJI">
 						$59.99
 					</a>
 				</h3>
@@ -1194,7 +1195,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td colspan="2">
 				<h3>
-					<a href="https://www.amazon.com/dp/B075QNVW2X">
+					<a target="__blank" href="https://www.amazon.com/dp/B075QNVW2X">
 						$19.99
 					</a>
 				</h3>
@@ -1205,7 +1206,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Perforated Flask</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Neutec-SuperPerf-Flanged-Flask-with-Cross-Bar-6-dia/702198N">
+					<a target="__blank" href="https://www.riogrande.com/product/Neutec-SuperPerf-Flanged-Flask-with-Cross-Bar-6-dia/702198N">
 						$96.85
 					</a>
 				</h3>
@@ -1214,7 +1215,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Neutec-SuperPerf-Flanged-Flask-with-Cross-Bar-5-dia/702196N">
+					<a target="__blank" href="https://www.riogrande.com/product/Neutec-SuperPerf-Flanged-Flask-with-Cross-Bar-5-dia/702196N">
 						$76.90
 					</a>
 				</h3>
@@ -1223,7 +1224,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Neutec-SuperPerf-Flanged-Flask-with-Cross-Bar-4-dia/702194N">
+					<a target="__blank" href="https://www.riogrande.com/product/Neutec-SuperPerf-Flanged-Flask-with-Cross-Bar-4-dia/702194N">
 						$59.75
 					</a>
 				</h3>
@@ -1232,7 +1233,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Neutec-SuperPerf-Flanged-Flask-with-Cross-Bar-3-12-dia/702199N">
+					<a target="__blank" href="https://www.riogrande.com/product/Neutec-SuperPerf-Flanged-Flask-with-Cross-Bar-3-12-dia/702199N">
 						$52.60
 					</a>
 				</h3>
@@ -1241,7 +1242,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Neutec-SuperPerf-Flanged-Flask-with-Cross-Bar-2-12-dia/702184N">
+					<a target="__blank" href="https://www.riogrande.com/product/Neutec-SuperPerf-Flanged-Flask-with-Cross-Bar-2-12-dia/702184N">
 						$34.25
 					</a>
 				</h3>
@@ -1253,7 +1254,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Rubber Base</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/neusprue-base-assembly-6-dia/710914">
+					<a target="__blank" href="https://www.riogrande.com/product/neusprue-base-assembly-6-dia/710914">
 						$9.50
 					</a>
 				</h3>
@@ -1262,7 +1263,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Rubber-Round-Button-C-Style-Sprue-Base-5-dia/702710">
+					<a target="__blank" href="https://www.riogrande.com/product/Rubber-Round-Button-C-Style-Sprue-Base-5-dia/702710">
 						$4.95
 					</a>
 				</h3>
@@ -1271,7 +1272,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Rubber-Round-Button-C-Style-Sprue-Base-4-dia/702709">
+					<a target="__blank" href="https://www.riogrande.com/product/Rubber-Round-Button-C-Style-Sprue-Base-4-dia/702709">
 						$4.05
 					</a>
 				</h3>
@@ -1280,7 +1281,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Rubber-Round-Button-C-Style-Sprue-Base-3-12-dia/702708">
+					<a target="__blank" href="https://www.riogrande.com/product/Rubber-Round-Button-C-Style-Sprue-Base-3-12-dia/702708">
 						$3.75
 					</a>
 				</h3>
@@ -1289,7 +1290,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Rubber-Round-Button-C-Style-Sprue-Base-2-12-dia/702706">
+					<a target="__blank" href="https://www.riogrande.com/product/Rubber-Round-Button-C-Style-Sprue-Base-2-12-dia/702706">
 						$3.50
 					</a>
 				</h3>
@@ -1305,7 +1306,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Disposable-Shrink-Band-for-6-Perforated-Flask/702065">
+					<a target="__blank" href="https://www.riogrande.com/product/Disposable-Shrink-Band-for-6-Perforated-Flask/702065">
 						$109.95
 					</a>
 				</h3>
@@ -1314,7 +1315,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Disposable-Shrink-Band-for-5-Perforated-Flask/710969">
+					<a target="__blank" href="https://www.riogrande.com/product/Disposable-Shrink-Band-for-5-Perforated-Flask/710969">
 						$84.20
 					</a>
 				</h3>
@@ -1323,7 +1324,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Disposable-Shrink-Band-for-4-Perforated-Flask/710963">
+					<a target="__blank" href="https://www.riogrande.com/product/Disposable-Shrink-Band-for-4-Perforated-Flask/710963">
 						$65.80
 					</a>
 				</h3>
@@ -1332,7 +1333,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Disposable-Shrink-Band-for-3-12-Perforated-Flask/710958">
+					<a target="__blank" href="https://www.riogrande.com/product/Disposable-Shrink-Band-for-3-12-Perforated-Flask/710958">
 						$60.50
 					</a>
 				</h3>
@@ -1341,7 +1342,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Rubber-Flask-Sleeve-9H-x-4-dia/702308">
+					<a target="__blank" href="https://www.riogrande.com/product/Rubber-Flask-Sleeve-9H-x-4-dia/702308">
 						$20.25
 					</a>
 				</h3>
@@ -1352,7 +1353,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 		<tr>
 			<td colspan="3">
 				<h3>
-					<a href="https://www.amazon.com/dp/B0747YRSSR">
+					<a target="__blank" href="https://www.amazon.com/dp/B0747YRSSR">
 						$108.95
 					</a>
 					x 24
@@ -1361,7 +1362,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B075VP6RRZ">
+					<a target="__blank" href="https://www.amazon.com/dp/B075VP6RRZ">
 						$14.99
 					</a>
 					x 3
@@ -1370,7 +1371,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/XFasten-Professional-Painters-Yards-Single/dp/B01F2UYER2">
+					<a target="__blank" href="https://www.amazon.com/XFasten-Professional-Painters-Yards-Single/dp/B01F2UYER2">
 						$8.97
 					</a>
 					x 1
@@ -1382,7 +1383,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Flask O-Ring</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Silicone-Flask-Gasket-6-dia/710394">
+					<a target="__blank" href="https://www.riogrande.com/product/Silicone-Flask-Gasket-6-dia/710394">
 						$69.00
 					</a>
 				</h3>
@@ -1391,7 +1392,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Silicone-Flask-Gasket-5-dia/710405">
+					<a target="__blank" href="https://www.riogrande.com/product/Silicone-Flask-Gasket-5-dia/710405">
 						$67.50
 					</a>
 				</h3>
@@ -1400,7 +1401,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Silicone-Flask-Gasket-4-dia/710393">
+					<a target="__blank" href="https://www.riogrande.com/product/Silicone-Flask-Gasket-4-dia/710393">
 						$67.50
 					</a>
 				</h3>
@@ -1409,7 +1410,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Silicone-Flask-Gasket-3-12-dia/710392">
+					<a target="__blank" href="https://www.riogrande.com/product/Silicone-Flask-Gasket-3-12-dia/710392">
 						$61.50
 					</a>
 				</h3>
@@ -1418,7 +1419,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Silicone-Flask-Gasket-2-12-dia/710390">
+					<a target="__blank" href="https://www.riogrande.com/product/Silicone-Flask-Gasket-2-12-dia/710390">
 						$52.50
 					</a>
 				</h3>
@@ -1430,7 +1431,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Bulk Extruded Sprues</td>
 			<td colspan="3">
 				<h3>
-					<a href="https://www.riogrande.com/product/Bulk-Extruded-Red-Sprue-Wax-38-dia/700017">
+					<a target="__blank" href="https://www.riogrande.com/product/Bulk-Extruded-Red-Sprue-Wax-38-dia/700017">
 						$30.25
 					</a>
 				</h3>
@@ -1439,7 +1440,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Bulk-Extruded-Red-Sprue-Wax-12-dia/700020">
+					<a target="__blank" href="https://www.riogrande.com/product/Bulk-Extruded-Red-Sprue-Wax-12-dia/700020">
 						$28.25
 					</a>
 				</h3>
@@ -1448,7 +1449,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/Bulk-Extruded-Red-Sprue-Wax-14-dia/700014">
+					<a target="__blank" href="https://www.riogrande.com/product/Bulk-Extruded-Red-Sprue-Wax-14-dia/700014">
 						$28.25
 					</a>
 				</h3>
@@ -1460,7 +1461,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Sprayer</td>
 			<td colspan="5">
 				<h3>
-					<a href="https://www.amazon.com/dp/B00YY8Q5R6">
+					<a target="__blank" href="https://www.amazon.com/dp/B00YY8Q5R6">
 						$13
 					</a>
 					x 2
@@ -1472,7 +1473,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Flex Shaft</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/foredom-k-2845-system-with-lx-motor-h-15-and-h-18-handpieces-and-c-sxr-foot-control/117608">
+					<a target="__blank" href="https://www.riogrande.com/product/foredom-k-2845-system-with-lx-motor-h-15-and-h-18-handpieces-and-c-sxr-foot-control/117608">
 						$523.60
 					</a>
 				</h3>
@@ -1481,7 +1482,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/foredom-txh440-industrial-system/117552">
+					<a target="__blank" href="https://www.riogrande.com/product/foredom-txh440-industrial-system/117552">
 						$389.30
 					</a>
 				</h3>
@@ -1489,7 +1490,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/foredom-sr-motor-with-h-20-quick-change-handpiece-flex-shaft-systems/117535gp">
+					<a target="__blank" href="https://www.riogrande.com/product/foredom-sr-motor-with-h-20-quick-change-handpiece-flex-shaft-systems/117535gp">
 						$305.15
 					</a>
 				</h3>
@@ -1497,7 +1498,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/prodigy-flex-shaft-system-with-quick-change-handpiece/117097">
+					<a target="__blank" href="https://www.riogrande.com/product/prodigy-flex-shaft-system-with-quick-change-handpiece/117097">
 						$119
 					</a>
 				</h3>
@@ -1505,7 +1506,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Shaft-System-Horsepower-Motor-HDP-150-00/dp/B00OV9BJU6/">
+					<a target="__blank" href="https://www.amazon.com/Shaft-System-Horsepower-Motor-HDP-150-00/dp/B00OV9BJU6/">
 						$93.25
 					</a>
 				</h3>
@@ -1516,7 +1517,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Fireproof Boots</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/gp/product/B001L8P7A8">
+					<a target="__blank" href="https://www.amazon.com/gp/product/B001L8P7A8">
 						$130
 					</a>
 				</h3>
@@ -1524,7 +1525,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.shoes.com/carolina-ca3630/522396/1099805">
+					<a target="__blank" href="https://www.shoes.com/carolina-ca3630/522396/1099805">
 						$109.99
 					</a>
 				</h3>
@@ -1532,7 +1533,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/gp/product/B06XGGYCKJ">
+					<a target="__blank" href="https://www.amazon.com/gp/product/B06XGGYCKJ">
 						$94.99
 					</a>
 				</h3>
@@ -1540,7 +1541,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://workboots.com/iron-age-6-ground-breaker-st-black">
+					<a target="__blank" href="https://workboots.com/iron-age-6-ground-breaker-st-black">
 						$89.99
 					</a>
 				</h3>
@@ -1548,7 +1549,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/Mens-Work-Safety-Welder-Steel-Toe-High-Top-Boots-Leather-Wearproof-Work-Shoes-/391485574058">
+					<a target="__blank" href="https://www.ebay.com/itm/Mens-Work-Safety-Welder-Steel-Toe-High-Top-Boots-Leather-Wearproof-Work-Shoes-/391485574058">
 						$39.99
 					</a>
 				</h3>
@@ -1559,7 +1560,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Fettling Knife</td>
 			<td colspan="5">
 				<h3>
-					<a href="https://www.amazon.com/Art-Advantage-8-Inch-Fettling-Knife/dp/B0027A7A86">
+					<a target="__blank" href="https://www.amazon.com/Art-Advantage-8-Inch-Fettling-Knife/dp/B0027A7A86">
 						$6.54
 					</a>
 				</h3>
@@ -1570,7 +1571,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>X-Acto Knife</td>
 			<td colspan="2">
 				<h3>
-					<a href="https://www.amazon.com/dp/B00004Z2UB">
+					<a target="__blank" href="https://www.amazon.com/dp/B00004Z2UB">
 						$20.18
 					</a>
 				</h3>
@@ -1578,7 +1579,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td colspan="2">
 				<h3>
-					<a href="https://www.amazon.com/X-ACTO-2-Knife-Safety-Cap/dp/B000V1QV7O">
+					<a target="__blank" href="https://www.amazon.com/X-ACTO-2-Knife-Safety-Cap/dp/B000V1QV7O">
 						$5.40
 					</a>
 				</h3>
@@ -1589,7 +1590,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Sprue Cutter</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/rio-heavy-duty-pneumatic-sprue-cutter/706039">
+					<a target="__blank" href="https://www.riogrande.com/product/rio-heavy-duty-pneumatic-sprue-cutter/706039">
 						$500
 					</a>
 				</h3>
@@ -1597,7 +1598,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B00FARY81U/">
+					<a target="__blank" href="https://www.amazon.com/dp/B00FARY81U/">
 						$122.10
 					</a>
 				</h3>
@@ -1605,7 +1606,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/heavy-duty-pro-cutters/111018">
+					<a target="__blank" href="https://www.riogrande.com/product/heavy-duty-pro-cutters/111018">
 						$25.85
 					</a>
 				</h3>
@@ -1613,7 +1614,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/DIAGONAL-PLASTIC-CUTTING-CV-STEEL-NOVELTOOLS/dp/B010GJTBXG">
+					<a target="__blank" href="https://www.amazon.com/DIAGONAL-PLASTIC-CUTTING-CV-STEEL-NOVELTOOLS/dp/B010GJTBXG">
 						$15.87
 					</a>
 				</h3>
@@ -1621,7 +1622,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Jonard-Carbon-Steel-Flush-Cutter/dp/B00AIBH45K">
+					<a target="__blank" href="https://www.amazon.com/Jonard-Carbon-Steel-Flush-Cutter/dp/B00AIBH45K">
 						$10.08
 					</a>
 				</h3>
@@ -1632,7 +1633,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Sander</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/foredom-polishing-bench-lathe-with-hoods/334015">
+					<a target="__blank" href="https://www.riogrande.com/product/foredom-polishing-bench-lathe-with-hoods/334015">
 						$299
 					</a>
 				</h3>
@@ -1640,7 +1641,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Zorvo-Function-Electrical-Grinding-Polishing/dp/B0798MQBQK">
+					<a target="__blank" href="https://www.amazon.com/Zorvo-Function-Electrical-Grinding-Polishing/dp/B0798MQBQK">
 						$159.99
 					</a>
 				</h3>
@@ -1648,7 +1649,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Neiko-10205A-6-Inch-Grinder-Buffing/dp/B000T0F1QO">
+					<a target="__blank" href="https://www.amazon.com/Neiko-10205A-6-Inch-Grinder-Buffing/dp/B000T0F1QO">
 						$77.95
 					</a>
 				</h3>
@@ -1656,7 +1657,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/rio-variable-speed-lathe/330031">
+					<a target="__blank" href="https://www.riogrande.com/product/rio-variable-speed-lathe/330031">
 						$59
 					</a>
 				</h3>
@@ -1664,7 +1665,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Benchtop-Buffer-Heavy-buffing-wheels/dp/B005R57J34/">
+					<a target="__blank" href="https://www.amazon.com/Benchtop-Buffer-Heavy-buffing-wheels/dp/B005R57J34/">
 						$56.89
 					</a>
 				</h3>
@@ -1688,7 +1689,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Investment (non-ferrous)</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/kerr-satin-cast-20-investment-100-lbs/702099">
+					<a target="__blank" href="https://www.riogrande.com/product/kerr-satin-cast-20-investment-100-lbs/702099">
 						$98
 					</a>
 				</h3>
@@ -1697,7 +1698,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B01K7H02KS">
+					<a target="__blank" href="https://www.amazon.com/dp/B01K7H02KS">
 						$90
 					</a>
 				</h3>
@@ -1706,7 +1707,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/ransom-and-randolph-ultra-vest-investment-50-lbs/702314">
+					<a target="__blank" href="https://www.riogrande.com/product/ransom-and-randolph-ultra-vest-investment-50-lbs/702314">
 						$42.65
 					</a>
 				</h3>
@@ -1718,7 +1719,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Aluminum (356 alloy)</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/ALUMINUM-INGOTS-43-lbs-26-to-30-ingots-Casting-alloy/182166261652">
+					<a target="__blank" href="https://www.ebay.com/itm/ALUMINUM-INGOTS-43-lbs-26-to-30-ingots-Casting-alloy/182166261652">
 						$125
 					</a>
 				</h3>
@@ -1727,7 +1728,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/ALUMINUM-INGOTS-28-lbs-17-to-19-ingots-Casting-alloy/171236930125">
+					<a target="__blank" href="https://www.ebay.com/itm/ALUMINUM-INGOTS-28-lbs-17-to-19-ingots-Casting-alloy/171236930125">
 						$90
 					</a>
 				</h3>
@@ -1736,7 +1737,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.ebay.com/itm/ALUMINUM-INGOTS-14-lbs-8-to-10-ingots-made-from-casting-alloy/172236970449">
+					<a target="__blank" href="https://www.ebay.com/itm/ALUMINUM-INGOTS-14-lbs-8-to-10-ingots-made-from-casting-alloy/172236970449">
 						$51
 					</a>
 				</h3>
@@ -1748,7 +1749,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Rubber (room temperature vulcanization)</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/liquafast-ice-rtv-silicone-molding-compound-4kg/701045">
+					<a target="__blank" href="https://www.riogrande.com/product/liquafast-ice-rtv-silicone-molding-compound-4kg/701045">
 						$210.85
 					</a>
 				</h3>
@@ -1758,7 +1759,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://shop.smooth-on.com/dragon-skin-10-medium">
+					<a target="__blank" href="https://shop.smooth-on.com/dragon-skin-10-medium">
 						$183.72
 					</a>
 				</h3>
@@ -1768,7 +1769,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/ditto-clear-rtv-mold-rubber-kit-1-1-lb/701025">
+					<a target="__blank" href="https://www.riogrande.com/product/ditto-clear-rtv-mold-rubber-kit-1-1-lb/701025">
 						$48.50
 					</a>
 				</h3>
@@ -1781,7 +1782,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Wood for box molds</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Midwest-Products-Co-5326-Plywood/dp/B000MNKTU6">
+					<a target="__blank" href="https://www.amazon.com/Midwest-Products-Co-5326-Plywood/dp/B000MNKTU6">
 						$17.58
 					</a>
 				</h3>
@@ -1791,7 +1792,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.lowes.com/pd/Common-1-in-x-4-in-x-8-ft-Actual-0-75-in-x-3-5-in-x-8-ft-Poplar-Board/1000074283">
+					<a target="__blank" href="https://www.lowes.com/pd/Common-1-in-x-4-in-x-8-ft-Actual-0-75-in-x-3-5-in-x-8-ft-Poplar-Board/1000074283">
 						$16.24
 					</a>
 				</h3>
@@ -1801,7 +1802,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Jili-Online-Pieces-Natural-Rectangle/dp/B06XW4W6YT">
+					<a target="__blank" href="https://www.amazon.com/Jili-Online-Pieces-Natural-Rectangle/dp/B06XW4W6YT">
 						$14.94
 					</a>
 				</h3>
@@ -1814,7 +1815,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Nails for box molds</td>
 			<td colspan="3">
 				<h3>
-					<a href="https://www.amazon.com/ARROW-160457-1-Wire-Nails/dp/B00VEDF246">
+					<a target="__blank" href="https://www.amazon.com/ARROW-160457-1-Wire-Nails/dp/B00VEDF246">
 						$2.29
 					</a>
 				</h3>
@@ -1826,7 +1827,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Vaseline for box molds (rubber release agent)</td>
 			<td colspan="3">
 				<h3>
-					<a href="https://www.amazon.com/Vaseline-Percent-Pure-Petroleum-Jelly/dp/B01FAL44ZU">
+					<a target="__blank" href="https://www.amazon.com/Vaseline-Percent-Pure-Petroleum-Jelly/dp/B01FAL44ZU">
 						$8.17
 					</a>
 				</h3>
@@ -1837,7 +1838,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Sealant for box molds (seal cracks after building)</td>
 			<td colspan="3">
 				<h3>
-					<a href="https://www.amazon.com/Sargent-Art-Plastilina-Modeling-5-Pound/dp/B00FR7TR1O">
+					<a target="__blank" href="https://www.amazon.com/Sargent-Art-Plastilina-Modeling-5-Pound/dp/B00FR7TR1O">
 						$13.91
 					</a>
 				</h3>
@@ -1847,7 +1848,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Sticky Wax</td>
 			<td>
 				<h3>
-					<a href="http://www.remet.com/range/specialty-wax/">
+					<a target="__blank" href="http://www.remet.com/range/specialty-wax/">
 						$60
 					</a>
 				</h3>
@@ -1856,7 +1857,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td colspan="2">
 				<h3>
-					<a href="https://www.riogrande.com/product/modelers-sticky-wax-pellets/700160">
+					<a target="__blank" href="https://www.riogrande.com/product/modelers-sticky-wax-pellets/700160">
 						$10.75
 					</a>
 					/ lb
@@ -1868,7 +1869,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Methyl Alcohol</td>
 			<td colspan="3">
 				<h3>
-					<a href="https://www.riogrande.com/product/methyl-alcohol/700003gp">
+					<a target="__blank" href="https://www.riogrande.com/product/methyl-alcohol/700003gp">
 						$11.95
 					</a>
 				</h3>
@@ -1880,7 +1881,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>VacuFilm</td>
 			<td colspan="3">
 				<h3>
-					<a href="https://www.riogrande.com/product/Rio-Vacu-Film-Concentrate/7021521">
+					<a target="__blank" href="https://www.riogrande.com/product/Rio-Vacu-Film-Concentrate/7021521">
 						$21.90
 					</a>
 				</h3>
@@ -1892,7 +1893,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Risers &amp; Filters</td>
 			<td colspan="3">
 				<h3>
-					<a href="http://www.mgstevens.com/riser-sleeves.html">
+					<a target="__blank" href="http://www.mgstevens.com/riser-sleeves.html">
 						$177
 					</a>
 					x 50
@@ -1904,7 +1905,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Flint Lighter</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/ALLY-Tools-Triple-Striker-Rotatable/dp/B016C9TWK6/">
+					<a target="__blank" href="https://www.amazon.com/ALLY-Tools-Triple-Striker-Rotatable/dp/B016C9TWK6/">
 						$15.47
 					</a>
 				</h3>
@@ -1913,7 +1914,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td colspan="2">
 				<h3>
-					<a href="https://www.amazon.com/US-Forge-Welding-Lighter-00506/dp/B000UVHGXS">
+					<a target="__blank" href="https://www.amazon.com/US-Forge-Welding-Lighter-00506/dp/B000UVHGXS">
 						$8.88
 					</a>
 				</h3>
@@ -1925,7 +1926,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>FlexShaft Fittings</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/flex-shaft-accessory-kit/338310">
+					<a target="__blank" href="https://www.riogrande.com/product/flex-shaft-accessory-kit/338310">
 						$36.50
 					</a>
 				</h3>
@@ -1934,7 +1935,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td colspan="2">
 				<h3>
-					<a href="https://www.amazon.com/gp/product/B01MQYLQVI">
+					<a target="__blank" href="https://www.amazon.com/gp/product/B01MQYLQVI">
 						$18.97
 					</a>
 				</h3>
@@ -1946,7 +1947,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Respirator</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/3M-6000-Series-Full-Face-Respirator/201652">
+					<a target="__blank" href="https://www.riogrande.com/product/3M-6000-Series-Full-Face-Respirator/201652">
 						$149
 					</a>
 				</h3>
@@ -1955,7 +1956,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/3m-7500-series-half-face-respirators/201669gp">
+					<a target="__blank" href="https://www.riogrande.com/product/3m-7500-series-half-face-respirators/201669gp">
 						$29.95
 					</a>
 				</h3>
@@ -1964,7 +1965,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.harborfreight.com/p95-maintenance-free-dual-cartridge-respirator-66554.html">
+					<a target="__blank" href="https://www.harborfreight.com/p95-maintenance-free-dual-cartridge-respirator-66554.html">
 						$16.99
 					</a>
 				</h3>
@@ -1976,7 +1977,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Casting gloves</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/casting-gloves/704104gp">
+					<a target="__blank" href="https://www.riogrande.com/product/casting-gloves/704104gp">
 						$39.50
 					</a>
 				</h3>
@@ -1985,7 +1986,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/ZaoProteks-ZP2102-Resistant-Temperature-Aluminized/dp/B01MT8GUN8">
+					<a target="__blank" href="https://www.amazon.com/ZaoProteks-ZP2102-Resistant-Temperature-Aluminized/dp/B01MT8GUN8">
 						$38.60
 					</a>
 				</h3>
@@ -1994,7 +1995,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Resistant-Melting-Furnace-Refining-Casting/dp/B07178ZQCB">
+					<a target="__blank" href="https://www.amazon.com/Resistant-Melting-Furnace-Refining-Casting/dp/B07178ZQCB">
 						$26.45
 					</a>
 				</h3>
@@ -2006,7 +2007,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Casting apron</td>
 			<td>
 				<h3>
-					<a href="https://www.riogrande.com/product/heat-resistant-safety-apron/750160">
+					<a target="__blank" href="https://www.riogrande.com/product/heat-resistant-safety-apron/750160">
 						$165
 					</a>
 				</h3>
@@ -2014,7 +2015,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Welding-Protective-Apparel-Cowhide-Leather/dp/B079CTJ9LJ">
+					<a target="__blank" href="https://www.amazon.com/Welding-Protective-Apparel-Cowhide-Leather/dp/B079CTJ9LJ">
 						$60
 					</a>
 				</h3>
@@ -2022,7 +2023,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Welding-Aluminized-Resistant-Apparel-Safety/dp/B018HVUJ40">
+					<a target="__blank" href="https://www.amazon.com/Welding-Aluminized-Resistant-Apparel-Safety/dp/B018HVUJ40">
 						$29.99
 					</a>
 				</h3>
@@ -2033,7 +2034,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Nitrile gloves (investment mixing)</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B074V3HQD7">
+					<a target="__blank" href="https://www.amazon.com/dp/B074V3HQD7">
 						$14.99
 					</a>
 				</h3>
@@ -2041,7 +2042,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/AMMEX-GPNB46100-BX-GlovePlus-Disposable-Industrial">
+					<a target="__blank" href="https://www.amazon.com/AMMEX-GPNB46100-BX-GlovePlus-Disposable-Industrial">
 						$10.58
 					</a>
 				</h3>
@@ -2049,7 +2050,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/Pro-Purple-Nitrile-Gloves-Medium/dp/B01EZQTUNW/">
+					<a target="__blank" href="https://www.amazon.com/Pro-Purple-Nitrile-Gloves-Medium/dp/B01EZQTUNW/">
 						$6.99
 					</a>
 				</h3>
@@ -2060,7 +2061,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Vinyl Gloves (silicone mixing)</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B01AE5YE2K">
+					<a target="__blank" href="https://www.amazon.com/dp/B01AE5YE2K">
 						$13
 					</a>
 				</h3>
@@ -2068,7 +2069,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B00CF492OE/">
+					<a target="__blank" href="https://www.amazon.com/dp/B00CF492OE/">
 						$7.57
 					</a>
 				</h3>
@@ -2076,7 +2077,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/West-Chester-2750-Industrial-Disposable/dp/B002ZPO4A0/">
+					<a target="__blank" href="https://www.amazon.com/West-Chester-2750-Industrial-Disposable/dp/B002ZPO4A0/">
 						$3.99
 					</a>
 				</h3>
@@ -2087,7 +2088,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Jumpsuit</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B006OC0OZE">
+					<a target="__blank" href="https://www.amazon.com/dp/B006OC0OZE">
 						$49.99
 					</a>
 				</h3>
@@ -2095,7 +2096,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B074TPL3TT">
+					<a target="__blank" href="https://www.amazon.com/dp/B074TPL3TT">
 						$40
 					</a>
 				</h3>
@@ -2103,7 +2104,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B005HJ8PFQ">
+					<a target="__blank" href="https://www.amazon.com/dp/B005HJ8PFQ">
 						$34.99
 					</a>
 				</h3>
@@ -2114,7 +2115,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			<td>Bucket (quenching, investment waste)</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B010G3M7ZG">
+					<a target="__blank" href="https://www.amazon.com/dp/B010G3M7ZG">
 						$38.49
 					</a>
 				</h3>
@@ -2122,7 +2123,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B01N1WHEH4">
+					<a target="__blank" href="https://www.amazon.com/dp/B01N1WHEH4">
 						$14.99
 					</a>
 				</h3>
@@ -2130,7 +2131,7 @@ In this section I list all tools and consumables mentioned throughout the articl
 			</td>
 			<td>
 				<h3>
-					<a href="https://www.amazon.com/dp/B077BST14P/ref=sspa_dk_detail_5">
+					<a target="__blank" href="https://www.amazon.com/dp/B077BST14P/ref=sspa_dk_detail_5">
 						$11.95
 					</a>
 				</h3>
