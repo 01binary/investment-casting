@@ -167,7 +167,7 @@ You can remove the wax from from the invested mold by flash-firing or autoclavin
 
 ## Burnout
 
-Following autoclaving or flash-firing, burn out the molds in a kiln using the schedule provided by the investment supplier in order to evacuate water and fuse silica particles in the micro-structure of the mold. Molds with intricate details require a longer burnout to achieve higher strength. Large molds require more time due to the amount of material to undergo transformation.
+Following autoclaving or flash-firing, burn out the molds in a kiln using the schedule provided by the investment supplier in order to evacuate water and fuse fibers in the micro-structure of the mold. Molds with intricate details require a longer burnout to achieve higher strength. Large molds require more time due to the amount of material to undergo transformation.
 
 A manual kiln requires constant and close monitoring as mistakes result in cracked molds. Programmable kilns are expensive because they are marketed to dentists and jewelers, but they save time and increase quality. Another option popular with makers is adding thermocouples and a controller to a used manual kiln.
 
