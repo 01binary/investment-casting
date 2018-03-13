@@ -22,7 +22,7 @@ Three years ago I set out to build a foundry for producing high-detail aluminum 
 			</td>
 			<td>
 				<ul>
-					<li>Grainy surface, requires special techniques and finishing to improve</li>
+					<li>Grainy surface, requires advanced techniques and extensive finishing to improve</li>
 					<li>Does not reproduce very small or complex details</li>
 				</ul>
 				<a target="__blank" href="http://www.foundry101.com/new_page_7.htm">read more...</a>
