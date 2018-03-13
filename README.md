@@ -177,7 +177,7 @@ Transfer autoclaved molds directly into a pre-heated kiln to avoid cracking from
 
 ## Selecting metal
 
-Choose an alloy designed for casting rather than machining, for example 356 instead of 6061. The [356](https://www.makeitfrom.com/material-properties/356.0-SG70A-A03560-Cast-Aluminum) alloy is used for car engine blocks and computer heat sinks, so it’s easy to acquire on the Internet in the form of de-drossed and degassed ingots.
+Use an alloy designed for casting rather than machining, for example 356 instead of 6061. The [356](https://www.makeitfrom.com/material-properties/356.0-SG70A-A03560-Cast-Aluminum) alloy is used for car engine blocks and computer heat sinks, so it’s easy to acquire on the Internet in the form of de-drossed and degassed ingots.
 
 ## Metal casting
 
