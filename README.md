@@ -8,7 +8,7 @@ Three years ago I set out to build a foundry for producing high-detail aluminum 
 	<tbody>
 		<tr>
 			<th>Investment Casting</th>
-			<th>Sand Casting</th>
+			<th>Green Sand Casting</th>
 			<th>Cold Casting</th>
 			<th>Metal 3D Printing</th>
 		</tr>
@@ -16,14 +16,14 @@ Three years ago I set out to build a foundry for producing high-detail aluminum 
 			<td>
 				<ul>
 					<li>Highly detailed parts, little finishing required</li>
-					<li>Temperature resistant (356 alloy deforms at 500°F)</li>
-					<li>Mechanically strong (3.5% elongation for 356 alloy)</li>
+					<li>Temperature resistant (deforms at 500°F <a target="__blank" href="https://www.makeitfrom.com/material-properties/356.0-SG70A-A03560-Cast-Aluminum">*</a>)</li>
+					<li>Mechanically strong (3.5% elongation <a target="__blank" href="https://www.makeitfrom.com/material-properties/356.0-SG70A-A03560-Cast-Aluminum">*</a>)</li>
 				</ul>
 			</td>
 			<td>
 				<ul>
-					<li>Grainy surface, satisfactory for functional parts where appearance is not a factor</li>
-					<li>Does not reproduce very small or complex details (i.e. concave geometry)</li>
+					<li>Grainy surface, requires special techniques and finishing to improve</li>
+					<li>Does not reproduce very small or complex details</li>
 				</ul>
 				<a target="__blank" href="http://www.foundry101.com/new_page_7.htm">read more...</a>
 			</td>
@@ -37,7 +37,7 @@ Three years ago I set out to build a foundry for producing high-detail aluminum 
 			<td>
 				<ul>
 					<li>Grainy surface requires finishing</li>
-					<li>Mechanically weaker than cast metal parts (1% elongation for <a target="__blank" href="https://www.protolabs.com/media/1011285/aluminum-alsi10mg-material-spec-data-sheet.pdf">AlSi10Mg</a>)</li>
+					<li>Mechanically weaker than cast metal parts (1% elongation <a target="__blank" href="https://www.protolabs.com/media/1011285/aluminum-alsi10mg-material-spec-data-sheet.pdf">*</a>)</li>
 				</ul>
 				<a target="__blank" href="https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/" target="__blank">read more...</a>
 			</td>
