@@ -108,7 +108,7 @@ Remove these additional features after casting with a wax pen.
 ## Selecting rubber
 
 Choose a rubber compound depending on the size of the parts to be cast:
-* Smaller parts (about 6" or less in all dimensions) can use wax injection, which doesn’t require high-temperature rubbers. RTV rubbers used in jewelry casting can be selected, for example [Ditto RTV](https://www.riogrande.com/product/ditto-clear-rtv-mold-rubber-kit-1-1-lb/701025) or [LiquaFast RTV](https://www.riogrande.com/product/liquafast-ice-rtv-silicone-molding-compound-1kg/701043) silicone.
+* Smaller parts (about 6" or less in all dimensions) can use wax injection, which doesn’t require high-temperature rubbers. Room Temperature Vulcanization rubbers used in jewelry casting can be selected, for example [Ditto RTV](https://www.riogrande.com/product/ditto-clear-rtv-mold-rubber-kit-1-1-lb/701025) or [LiquaFast RTV](https://www.riogrande.com/product/liquafast-ice-rtv-silicone-molding-compound-1kg/701043) silicone.
 * Large parts require degassing inside of a vacuum oven where the rubber will be subjected to temperatures in excess of 400°F. This requires a heat-resistant silicone like [DragonSkin](https://www.smooth-on.com/product-line/dragon-skin/).
 
 ## Degassing rubber
