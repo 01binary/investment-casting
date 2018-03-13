@@ -171,7 +171,7 @@ Following autoclaving or flash-firing, burn out the molds in a kiln using the sc
 
 A manual kiln requires constant and close monitoring as mistakes result in cracked molds. Programmable kilns are expensive because they are marketed to dentists and jewelers, but they save time and increase quality. Another option popular with makers is adding thermocouples and a controller to a used manual kiln.
 
-> Running a kiln requires a metal desk, a room with a stone floor, all non-ceramic surfaces covered with sheet rock, corners sealed with fire foam, and a ventilation system. Large kilns run on 220-240V and require converting a 120V circuit, installing fuses, and routing through a fusible safety switch. These changes should be included in budget and feasibility analysis.
+Running a kiln requires a metal desk, a room with a stone floor, all non-ceramic surfaces covered with sheet rock, corners sealed with fire foam, and a ventilation system. Large kilns run on 220-240V and require converting a 120V circuit, installing fuses, and routing through a fusible safety switch. These changes should be included in budget and feasibility analysis.
 
 Transfer autoclaved molds directly into a pre-heated kiln to avoid cracking from rapid cool-down. When using flash-firing the burnout can start immediately in the same kiln.
 
